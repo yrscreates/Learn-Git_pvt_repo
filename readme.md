@@ -1,6 +1,6 @@
 # Learn about git and github
 
-subscribe my cgannel Aishnavicreates on youtube
+subscribe my channel Aishnavicreates on youtube
 
 ''' python
  print("helooooooo")
